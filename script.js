@@ -18,7 +18,7 @@ class Bird {
     this.acceleration = 0.4;
     this.image = new Image();
     this.image.src = "bird.png";
-    this.jump_force = -7;
+    this.jump_force = -10;
     this.point = 0;
   }
 
